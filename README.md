@@ -6,9 +6,16 @@ Experienced Data Scientist with 4 years of experience across two organizations. 
 
 Skills: Python/Machine Learning/Data Science
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Quantative analysis of S&P500 
+- 👯 I’m looking to collaborate on Jenn Street 
+- 💬 Ask me about  Machine Learning  
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alilitan)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alilitan)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alilitan&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/alilitan/contributions?format=svg&private=true)  
 
