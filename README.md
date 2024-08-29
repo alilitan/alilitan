@@ -8,7 +8,7 @@ Experienced Data Scientist with 4 years of experience across two organizations. 
 
 - 🔭 I’m currently working on **quantitative analysis for s&p 500 index fund**
 
-- 📫 How to reach me **litanali2009@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
